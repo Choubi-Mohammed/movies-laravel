@@ -1,6 +1,3 @@
-Voici un modèle de fichier **README.md** pour votre projet **Movies Laravel** sur GitHub. Vous pouvez l'ajouter à votre projet en créant un fichier nommé `README.md` à la racine de votre dépôt.
-
-```markdown
 # Movies Laravel
 
 ## Description
